@@ -1,7 +1,5 @@
-import pandas as pd
-
-
-df = pd.DataFrame()
-
-print(df)
+'''
+과외를 위해 만든 파일입니다.
+과외 중 movelens 데이터를 활용한 무언가를 할 예정입니다.
+'''
 
